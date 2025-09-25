@@ -7,53 +7,7 @@ Noticiero escolar
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ALZATE NOTICIAS</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f5f5f5;
-      color: #333;
-    }
-    header {
-      background: linear-gradient(135deg, #111, #333);
-      color: white;
-      text-align: center;
-      padding: 2rem 1rem;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.4);
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-      letter-spacing: 2px;
-    }
-    main {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 1rem;
-    }
-    section {
-      background: white;
-      border-radius: 12px;
-      margin-bottom: 2rem;
-      padding: 1.5rem;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: red;
-      margin-top: 0;
-      font-size: 1.5rem;
-    }
-    p {
-      line-height: 1.6;
-      text-align: justify;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #111;
-      color: #fff;
-      margin-top: 2rem;
-    }
+    
   </style>
 </head>
 <body>
