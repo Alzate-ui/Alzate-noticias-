@@ -27,7 +27,7 @@ Noticiero escolar
       </p>
     </section>
 
-    <section>
+    
       <h2>Contaminación en zonas verdes</h2>
       <p>
         La contaminación en zonas verdes es incontrolable en el mundo, pero si nosotros somos personas conscientes podemos 
